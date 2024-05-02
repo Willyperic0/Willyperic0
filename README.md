@@ -1,6 +1,5 @@
 # Presentación
 <h1 align="center">Hola, mi nombre es Willy</h1>
->
 <p align="center">
   <img src="https://github.com/Willyperic0/Willyperic0/assets/62906523/028643b7-592e-4f47-b767-f40bea4ca929">
 </p>

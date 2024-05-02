@@ -1,5 +1,6 @@
 # Presentación
 <h1 align="center">Hola, mi nombre es Willy</h1>
+[![Github-readme.png](https://i.postimg.cc/XqzwmWvW/Github-readme.png)](https://postimg.cc/0K7MKLmX)
 <h3 align="center">Estudiante de ING en sistemas e informática UPB</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Java**

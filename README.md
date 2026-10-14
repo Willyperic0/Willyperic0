@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://github.com/Willyperic0"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=05AFF2" /></a>
   <a href="https://www.instagram.com/willyperic0/"><img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=05AFF2" /></a>
-  <a href="https://willyperic0scardshow.vercel.app/"><img src="https://img.shields.io/badge/CARD_SHOW-111111?style=for-the-badge&logo=vercel&logoColor=05AFF2" /></a>
 </p>
 
 <br/>

@@ -1,6 +1,6 @@
 <!-- Banner Principal -->
 <p align="center">
-  <img src="https://i.postimg.cc/1X68nqKg/descarga.png" alt="Banner" width="100%" style="border-radius: 8px;">
+  <img src="https://i.postimg.cc/1X68nqKg/descarga.png" alt="Banner" width="70%" style="border-radius: 8px;">
 </p>
 
 <!-- Quick Links / Dark Style Badges -->
@@ -32,11 +32,11 @@
 
 <br/>
 
-<!-- Contributions Graph -->
+<!-- Contributions Graph sin blanco brillante -->
 <h3>Contributions Graph</h3>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/05AFF2/willyperic0" alt="GitHub Contribution Calendar" width="100%" />
+  <img src="https://ghchart.rshah.org/05AFF2/willyperic0?bg_color=0d1117" alt="GitHub Contribution Calendar" width="100%" />
 </p>
 
 <br/>
